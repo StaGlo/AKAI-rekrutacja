@@ -23,7 +23,7 @@ frequencies = []
 
 for sentence in sentences:
     # ''.join(char for char in sentence if (char.isalnum() or char == ' '))
-    # deletes not alphanumeric (plus ' ') characters
+    # deletes not alphanumeric or ' ' characters
     for word in ''.join(char for char in sentence if (char.isalnum() or char == ' ')).lower().split():
         wordlist.append(word)
 
