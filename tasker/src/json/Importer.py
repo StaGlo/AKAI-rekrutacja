@@ -14,11 +14,8 @@ class Importer:
             self.imported_data = json.load(file)
             file.close()
 
-        pass
 
     def get_tasks(self):
         # TODO zwróć zdekodowane taski tutaj
 
         return self.imported_data
-
-        pass

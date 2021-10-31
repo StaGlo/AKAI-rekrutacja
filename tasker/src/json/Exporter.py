@@ -10,7 +10,5 @@ class Exporter:
         # TODO zapisz taski do pliku tutaj
 
         with open('taski.json', 'w') as file:
-            json.dump(tasks, file)
+            json.dump(tasks, file, ensure_ascii=False, indent=2)
             file.close()
-
-        pass
