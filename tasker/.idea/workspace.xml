@@ -10,6 +10,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b72ef51f-b6c1-4e96-bcd1-cd2b67be61a3" />
+        <option name="url" value="https://github.com/StaGlo/AKAI-rekrutacja.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="20HVxSnEzeXTI1cRw6qkcRS1Heo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,5 +66,16 @@
       <updated>1635701749498</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
